@@ -20,9 +20,11 @@ According to the directives, our dashboard should revolve around these 4 main to
 
 
 ## Project explaining step by step:
-Step 1: Extract data from the database using SQL 
-Step 2: Analyze according to the directives
-Step 3: Create a Daily Dashboard using PowerBI to visualize all KPIs
+Step 1: Extract data from the database using SQL. 
+
+Step 2: Analyze according to the directives.
+
+Step 3: Create a Daily Dashboard using PowerBI to visualize all KPIs.
 
 ## The diagram of the database
 
